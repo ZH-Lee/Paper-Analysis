@@ -25,5 +25,6 @@ ReLU的函数图如下：
 
 文中后面还比较了ResNet类的shortcut和本文的shorcut的区别。前者是连接高通道数的，后者是连接低通道数的。也就是说前者进入residual模块时，先降维了，然后再升维，而MobileNetV2则是先升维再降维。
 
+[返回主页](https://github.com/ZH-Lee/Paper-Analysis/tree/master)
 
 
