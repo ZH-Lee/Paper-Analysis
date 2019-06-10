@@ -6,6 +6,11 @@
 
 ## 目录
 
+* 最新文献跟读
+  
+  * [multi-sample-dropout(2019)](https://github.com/ZH-Lee/Paper-Analysis/blob/master/%E6%9C%80%E6%96%B0%E8%AE%BA%E6%96%87%E8%B7%9F%E8%AF%BB/Multi-sample-Dropout.md)
+  
+  
 * 轻量级网络类
 
   * [MobileNetV2](https://github.com/ZH-Lee/Paper-Analysis/blob/master/MobileNet/MobileNetv2.md)
