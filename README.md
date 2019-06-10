@@ -14,6 +14,7 @@
 * 轻量级网络类
 
   * [MobileNetV2](https://github.com/ZH-Lee/Paper-Analysis/blob/master/MobileNet/MobileNetv2.md)
+  * [SENet](https://github.com/ZH-Lee/Paper-Analysis/blob/master/SENet/SENet.md)
 
 * 目标检测-RCNN类
   * [开山鼻祖OverFeat](https://github.com/ZH-Lee/Paper-Analysis/blob/master/OverFeat/OverFeat.md)
