@@ -20,7 +20,14 @@
 ![yolov2](./yolov2-1.jpg)
 ![yolov2](./yolov2-2.jpg)
 
+图中的pw和ph是prior的宽和高，也就是模版高和宽。
+
 在这，作者首次利用darknet作为特征提取器。
 ![](./yolov2-4.jpg)
 
 在训练的时候，作者还使用了一种新方法，将图像分类数据和图像检测数据混合。如果碰到的输入事图像分类，则只更新分类部分的网络，如果遇到检测数据集，则更新网络所有部分。
+
+
+### 参考
+
+[YOLOv2](https://blog.csdn.net/leviopku/article/details/82588959)
